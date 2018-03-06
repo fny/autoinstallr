@@ -1,0 +1,12 @@
+Package: autoinstallr
+Type: Package
+Title: Automatically installs missing packages loaded with library
+Version: 1.0.0
+Authors@R: person('Faraz', 'Yashar', email = 'faraz.yashar@gmail.com',
+  role = c('aut', 'cre'))
+Description: Automatically installs missing packages loaded with library
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.0.1
